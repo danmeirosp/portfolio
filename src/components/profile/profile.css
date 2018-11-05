@@ -1,0 +1,23 @@
+.profile p.headline {
+    margin-top: 0;
+  }
+  
+  .profile-entry {
+    margin-bottom: 10px;
+  }
+  
+  .profile-entry:last-of-type {
+    margin-bottom: 0px;
+  }
+  
+  .profile-entry-chip {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    display: inline-block;
+  }
+  
+  .profile-entries {
+    display: inline-block;
+    margin-top: 20px;
+  }
+  

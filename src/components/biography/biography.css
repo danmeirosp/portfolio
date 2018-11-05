@@ -1,0 +1,31 @@
+.biography {
+  position: relative;
+  color: white;
+  text-align: justify;
+}
+
+.agile-biography p {
+  position: relative;
+  color: white;
+}
+
+.biography-content {
+  padding-left: 40px;
+  display: inline-block;
+  opacity: 0.8;
+}
+
+.biography-marks {
+  font-family: Arial;
+  font-size: 200px;
+  position: absolute;
+  top: -50px;
+  opacity: 0.1;
+}
+
+.biography-author {
+  padding-left: 40px;
+  display: inline-block;
+  opacity: 0.8;
+  font-size: 12px;
+}
