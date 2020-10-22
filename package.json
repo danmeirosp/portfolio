@@ -3,6 +3,7 @@
   "homepage": "https://danmeirosp.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
+   "homepage": "https://danmeirosp.github.io/portfolio/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danmeirosp/portfolio"
